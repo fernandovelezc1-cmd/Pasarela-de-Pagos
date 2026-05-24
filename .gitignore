@@ -1,0 +1,19 @@
+# Ignore everything by default for the public repository
+*
+
+# Keep repository metadata and public assets
+!.gitignore
+!README.md
+!screenshots/
+!screenshots/**
+
+# Explicitly ignore sensitive and implementation files
+.env
+.env.*
+node_modules/
+src/
+public/
+server.js
+package.json
+package-lock.json
+*.log
