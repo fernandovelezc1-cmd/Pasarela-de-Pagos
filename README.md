@@ -8,16 +8,6 @@ Proyecto de pasarela de pagos orientado a una experiencia moderna, clara y profe
 - Diseno visual moderno para checkout y pantalla de resultado.
 - Pensado para integraciones de pago en entornos reales de comercio.
 
-## Capturas
-
-### Interfaz principal
-![Interfaz principal](screenshots/1-interfaz-pago.jpg)
-
-### Resultado de pago
-![Resultado de pago](screenshots/2-pago-aprobado.jpg)
-
-### Vista complementaria
-![Vista complementaria](screenshots/3-panel-admin.jpg)
 
 ## Publicacion segura
 
